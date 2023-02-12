@@ -44,7 +44,7 @@ public class Install {
 	}
 
 	public static void main(String[] args) {
-		String gamesDir = "/home/garrik/Games";
+		String gamesDir = "/home/garrik/Games/GunRunner";
 		String baseDir = gamesDir;
 
 		// 1. В папке Games создайте несколько директорий: src, res, savegames, temp.
